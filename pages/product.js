@@ -2,8 +2,16 @@ import React from 'react'
 
 const product = () => {
   return (
-    <div>product</div>
+    <>
+    <div>
+      salam
+    </div>
+    </>
   )
 }
 
 export default product
+
+// async function getStatikToProps(context) {
+  
+// }
